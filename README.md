@@ -1,4 +1,4 @@
-![EX1 2](https://github.com/SUBBIAH1904/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/147473604/511ea3bd-f492-4d06-93e9-4fffa51c260c)### Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
+### Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
 ## Name: SUBBIAH S
 ## Reg no: 212223220111
 ### AIM:
